@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "name": "Post Matric Scholarship",
+        "category": "education",
+        "description": "Financial assistance for eligible students pursuing education after matriculation.",
+        "target_beneficiaries": [
+            "students"
+        ],
+        "keywords": [
+            "college",
+            "education",
+            "scholarship",
+            "tuition fees"
+        ]
+    },
+    {
+        "id": 2,
+        "name": "PM-KISAN",
+        "category": "agriculture",
+        "description": "Income support for eligible landholding farmer families under the scheme's applicable rules.",
+        "target_beneficiaries": [
+            "farmers"
+        ],
+        "keywords": [
+            "farmer",
+            "agriculture",
+            "income support",
+            "farming"
+        ]
+    },
+    {
+        "id": 3,
+        "name": "Pradhan Mantri Awas Yojana",
+        "category": "housing",
+        "description": "Housing assistance for eligible beneficiaries according to the applicable scheme guidelines.",
+        "target_beneficiaries": [
+            "eligible households"
+        ],
+        "keywords": [
+            "house",
+            "housing",
+            "home",
+            "housing assistance"
+        ]
+    }
+]
