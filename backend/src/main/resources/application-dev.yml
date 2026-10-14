@@ -1,0 +1,15 @@
+server:
+  port: 8081
+
+spring:
+  datasource:
+    url: jdbc:mysql://localhost:3306/govscheme
+    username: root
+    password: devpass
+  jpa:
+    hibernate:
+      ddl-auto: validate
+
+jwt:
+  secret: CHANGE_THIS_PLACEHOLDER_SECRET_KEY
+  expiration-ms: 86400000

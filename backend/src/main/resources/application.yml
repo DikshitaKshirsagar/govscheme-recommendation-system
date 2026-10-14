@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: govscheme-backend
+  profiles:
+    active: dev
